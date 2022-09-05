@@ -3,11 +3,9 @@
 
 Skills: **C++**
 
-- 🌱 I’m currently learning **C++**, **JavaScript** ~~(not much)~~ 
-- 🤔 I’m looking for help with *JS learning* .-. 
+- 🌱 I’m currently learning **ReactJS**
 - 💬 Ask me about **anything** if you want 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/potayto.1107)
-- 😄 Pronouns: *Milktea*, *Milktea*, *Milktea* 
 - ⚡ Fun fact: I'm a ~~milkteaholic~~ 
 
 
