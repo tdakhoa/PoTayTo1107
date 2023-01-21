@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Tran Do Anh Khoa *aka* PoTayTo
+### Hi there 👋, my name is Tran Do Anh Khoa
 #### I'm proudly being a student of University of Science, Ho Chi Minh City, Viet Nam
 
 Skills: **C++**
