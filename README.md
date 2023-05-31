@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Tran Do Anh Khoa
 #### I'm proudly being a student of University of Science, Ho Chi Minh City, Viet Nam
 
-Skills: **C++**
+Skills: **C++, ReactJS**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Flutter**
 - 💬 Ask me about **anything** if you want 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/potayto.1107)
-- ⚡ Fun fact: I'm a ~~milkteaholic~~ 
+- ⚡ Fun fact: I'm a **milkteaholic** 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PoTayTo1107)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/PoTayTo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/potayto.1107)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_potayto.1107/)  
